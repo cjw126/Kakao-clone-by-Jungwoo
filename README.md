@@ -1,3 +1,3 @@
 # Kakao Clone Jungwoo Update
 
-CSS got so much better!
+HTML and CSS got so much fun! :)
