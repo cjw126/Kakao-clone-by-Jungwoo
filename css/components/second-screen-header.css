@@ -1,0 +1,20 @@
+.sec-header {
+  padding: 25px 25px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.sec-header__title {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.sec-header__column:first-child {
+  margin-right: auto;
+}
+
+.sec-header__column:last-child {
+  margin-left: auto;
+}
